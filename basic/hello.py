@@ -1,1 +1,1 @@
-print("hello", 5, "world")
+print("hello", 5*5 + 1, "world")
