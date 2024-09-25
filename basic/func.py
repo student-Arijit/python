@@ -13,3 +13,7 @@ numbers = [5, 2, 8, 1, 4]
 print(sorted(numbers)) #to sort
 squre = lambda x: x**2 #lambda for single use only
 print(squre(int(input()))) #input() returns str so type specified
+numbers = [1, 2, 3, 4]
+square = lambda x: x ** 2
+sq = list(map(square, numbers)) #list for creating a new list map for apply every element
+print(sq)
