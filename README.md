@@ -1,4 +1,4 @@
-Here's a sample GitHub README for a Python programming project:
+
 
 
 *Python Programming Project*
@@ -99,13 +99,9 @@ Happy coding!
 [!(link unavailable)]((link unavailable))
 
 
-*Social*
 
-[!(link unavailable)]((link unavailable))
-[!(link unavailable)]((link unavailable))
 
 
 Replace placeholders with your own information.
 
 
-Feel free to modify and expand this template to suit your project's needs!
