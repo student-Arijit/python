@@ -1,10 +1,7 @@
 
 
 
-*Python Programming Project*
-
-
-*Project Overview*
+*Python Programming Repository*
 
 This repository contains a collection of Python programs and scripts that demonstrate various concepts, techniques, and applications of the Python programming language.
 
