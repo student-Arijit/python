@@ -12,7 +12,6 @@ This repository contains a collection of Python programs and scripts that demons
 - #features
 - #code-structure
 - #contributing
-- #license
 
 
 *Getting Started*
@@ -29,7 +28,7 @@ To run the Python programs in this repository, follow these steps:
 
 *Installation*
 
-1. Clone the repository using `git clone (link unavailable)
+1. Clone the repository using `git clone`
 2. Navigate to the project directory using `cd python-programming`
 3. Install dependencies using `pip install -r requirements.txt`
 
