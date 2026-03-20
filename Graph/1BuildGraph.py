@@ -13,18 +13,18 @@ class Graph:
         self.graph[u].append(v)
         self.graph[v].append(u)
 
-    def to_network(self, graph):
-        temp = nx.Graph()
+        def display(self):
+            def to_network(graph):
+                temp1 = nx.Graph()
 
-        for node in self.graph:
-            for neigh in self.graph[node]:
-                temp.add_edge(node, neigh)
-        return temp
+                for node in self.graph:
+                    for neigh in self.graph[node]:
+                        temp1.add_edge(node, neigh)
+                return temp1
 
-    def display(self):
-        temp = self.to_network(self.graph)
-        nx.draw(temp, with_labels=True)
-        plt.show()
+            temp = to_network(self.graph)
+            nx.draw(temp, with_labels=True)
+            plt.show()
 
 g = Graph()
 
