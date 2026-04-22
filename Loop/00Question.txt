@@ -13,3 +13,27 @@ sol: 01
     **********
     **********
     **********
+3. write a program to print the following pattern:
+    *
+    **
+    ***
+    ****
+    *****
+4. write a program to print the following pattern:
+    1
+    12
+    123
+    1234
+    12345
+5. write a program to print the following pattern:
+    1
+    22
+    333
+    4444
+    55555
+6. write a program to print the following pattern:
+    0
+    12
+    345
+    6789
+7. 
