@@ -1,3 +1,5 @@
+#Implement bisection method to find a positive root from a non-linear equation.
+
 from tabulate import tabulate
 
 class BisectionMethod:
